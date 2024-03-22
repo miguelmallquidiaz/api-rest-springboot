@@ -2,7 +2,7 @@
 
 Se desarrolló un proyecto para gestionar clientes siguiendo buenas prácticas con API REST utilizando Spring Boot.
 
-## Funcinalidades:
+## Funcionalidades:
 - Eliminar Clientes
 - Agregar Clientes
 - Actualizar Clientes
